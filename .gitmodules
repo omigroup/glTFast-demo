@@ -1,0 +1,3 @@
+[submodule "Packages/glTFast"]
+	path = Packages/glTFast
+	url = https://github.com/omigroup/glTFast
